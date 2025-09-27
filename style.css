@@ -18,14 +18,6 @@ body {
 
 /* ============================================== Candle
 */
-body {
-  margin: 0; /* убрать отступы по умолчанию */
-  height: 100vh; /* чтобы тело занимало всю высоту экрана */
-  display: flex;
-  justify-content: center; /* по горизонтали */
-  align-items: center; /* по вертикали */
-  background: #fff; /* можно задать цвет фона */
-}
 
 .velas {
   background: #ffffff;
